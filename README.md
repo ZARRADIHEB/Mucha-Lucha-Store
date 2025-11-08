@@ -55,7 +55,3 @@ It allows users to browse products, manage carts, handle payments, and perform f
 - PayPal REST SDK
 - CORS & Cookie-Parser
 
----
-
-## ⚙️ Project Structure
-
